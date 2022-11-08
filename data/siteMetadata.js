@@ -10,12 +10,11 @@ const siteMetadata = {
   siteLogo: '/static/images/white-logo.png',
   image: '/static/images/white-logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'info@booktalktoday.com',
+  twitter: 'https://twitter.com/booktalktoday',
+  youtube: 'https://www.youtube.com/channel/UCShjmLZLiMfnYs2Ea00IV5Q',
+  spotify: 'https://open.spotify.com/show/1C1AFpKaNrQbVcluJmL33h',
+  apple: 'https://podcasts.apple.com/gb/podcast/book-talk-today-with-aun-abdi/id1525619296',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
