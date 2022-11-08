@@ -1,15 +1,17 @@
 ---
 name: Book Talk Today
-avatar: /static/images/white-logo.png
-occupation: Podcast
+avatar: /static/images/aaheadshot.png
+occupation: Podcast Created by Aun Abdi
 email: aun@booktalktoday.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/booktalktoday
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Welcome to Book Talk Today Podcast. A podcast that interviewers authors to uncover the ideas and principles behind their books.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+My name is Aun Abdi. I’m a Software Engineer and Content Creator based out of London, UK. The main reason behind creating BTT was a desire to learn more about a topic from the author. When I enjoy learning from a book I often find myself wanting to know how and why an author came to write the book. You can message the author in the hopes they reply, however, I found myself wanting to share these conversations in the hopes others would be interested too. And thus BTT was born.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you’re an author or publisher interested in joining the podcast please reach out to me and I would be more than happy to have you on. If you’re an interested listener please subscribe to our channels and leave a review.
+
+Thanks for all your support. Happy reading.
+
+Aun Abdi
