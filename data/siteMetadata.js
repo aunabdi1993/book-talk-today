@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Book Talk Today',
-  author: 'Book Talk Today',
+  author: 'Created by Aun Abdi',
   headerTitle: '',
   description:
     'A podcast that inspires readers to obtain valuable insights to inform, educate and improve lives.',
