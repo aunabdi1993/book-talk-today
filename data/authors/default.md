@@ -1,9 +1,7 @@
 ---
-name: Book Talk Today
+name: Aun Abdi
 avatar: /static/images/aaheadshot.png
-occupation: Podcast Created by Aun Abdi
-email: aun@booktalktoday.com
-twitter: https://twitter.com/booktalktoday
+occupation: Software Engineer and Content Creator
 ---
 
 Welcome to Book Talk Today Podcast. A podcast that interviews authors to uncover the ideas and principles behind their books.
