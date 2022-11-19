@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteLogo: '/static/images/white-logo.png',
   image: '/static/images/white-logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/white-logo.png',
   email: 'info@booktalktoday.com',
   twitter: 'https://twitter.com/booktalktoday',
   youtube: 'https://www.youtube.com/channel/UCShjmLZLiMfnYs2Ea00IV5Q',
